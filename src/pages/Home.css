@@ -1,0 +1,19 @@
+:root {
+    --btn-color: #16223d;
+    --btn-hover-color: #7193e8;
+  }
+
+.btn{
+    background-color: var(--btn-color);
+    border: none;
+}
+
+.btn:hover{
+background-color: var(--btn-hover-color);
+}
+
+.letters{
+    color: white;
+
+}
+
